@@ -1,1 +1,5 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rutoc&show_icons=true&theme=transparent)
+###### 🗺️ Olá, mundo!
+
+Oi, eu sou o **Rapha**, também conhecido como **RuToc** ou **Lettre**.
+
+Aqui você verá C#, Java, C++, Javascript e, quem sabe, um pouco de desenvolvimento Web....
